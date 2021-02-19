@@ -9,12 +9,15 @@
 body {
   font-family: 'Kumbh Sans', sans-serif;
   background-color: var(--Primary-Dark-Cyan);
+<<<<<<< HEAD
 
   /* background-image: url("images/bg-pattern-bottom.svg"), url("images/bg-pattern-top.svg");
   background-position: calc(50% + 450px) calc(50% + 500px), calc(50% - 500px) calc(50% - 400px);
   background-repeat: no-repeat;
   background-size: 950px, 950px; */
 
+=======
+>>>>>>> 622e00b1c133333fdab91a18a15eb86c4e649daf
 }
 
 .top-pattern {
@@ -35,7 +38,10 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 622e00b1c133333fdab91a18a15eb86c4e649daf
 }
 
 main {
